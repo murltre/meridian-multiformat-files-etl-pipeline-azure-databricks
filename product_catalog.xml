@@ -1,0 +1,2760 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalog source="MerchPIM" exported_at="2026-10-01T02:00:00Z">
+  <product id="P1093" status="active">
+    <name>Solar Camp Chair</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>214.99</list_price>
+      <unit_cost>89.33</unit_cost>
+    </pricing>
+    <launch_date>2025-11-07</launch_date>
+    <weight_kg>4.42</weight_kg>
+    <attributes>
+      <color>Red</color>
+    </attributes>
+  </product>
+  <product id="P1052" status="active">
+    <name>Trail Rain Jacket</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>122.99</list_price>
+      <unit_cost>43.64</unit_cost>
+    </pricing>
+    <launch_date>2024-03-04</launch_date>
+    <weight_kg>3.11</weight_kg>
+    <attributes>
+      <color>Olive</color>
+      <size_range>S-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1027" status="active">
+    <name>Wireless Smartwatch</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>89.99</list_price>
+      <unit_cost>53.97</unit_cost>
+    </pricing>
+    <launch_date>2024-10-09</launch_date>
+    <weight_kg>3.58</weight_kg>
+  </product>
+  <product id="P1149" status="active">
+    <name>Bamboo French Press</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>19.99</list_price>
+      <unit_cost>7.64</unit_cost>
+    </pricing>
+    <launch_date>2023-04-19</launch_date>
+    <weight_kg>5.27</weight_kg>
+  </product>
+  <product id="P1004" status="active">
+    <name>Bamboo Pan Set</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>69.99</list_price>
+      <unit_cost>40.88</unit_cost>
+    </pricing>
+    <launch_date>2025-05-21</launch_date>
+    <weight_kg>4.51</weight_kg>
+    <attributes>
+      <color>Grey</color>
+    </attributes>
+  </product>
+  <product id="P1142" status="active">
+    <name>Ultralight Headlamp</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>94.99</list_price>
+      <unit_cost>42.89</unit_cost>
+    </pricing>
+    <launch_date>2024-04-04</launch_date>
+    <weight_kg>4.51</weight_kg>
+  </product>
+  <product id="P1158" status="active">
+    <name>Merino Leggings</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>80.99</list_price>
+      <unit_cost>44.22</unit_cost>
+    </pricing>
+    <launch_date>2025-10-16</launch_date>
+    <weight_kg>0.09</weight_kg>
+    <attributes>
+      <color>Navy</color>
+      <size_range>S-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1064" status="active">
+    <name>Wireless Speaker</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>97.99</list_price>
+      <unit_cost>42.99</unit_cost>
+    </pricing>
+    <launch_date>27/02/2023</launch_date>
+    <weight_kg>1.19</weight_kg>
+    <attributes>
+      <color>White</color>
+    </attributes>
+  </product>
+  <product id="P1135" status="discontinued">
+    <name>Wireless Power Bank</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>109.99</list_price>
+      <unit_cost>40.88</unit_cost>
+    </pricing>
+    <launch_date>2024-01-16</launch_date>
+    <weight_kg>3.09</weight_kg>
+  </product>
+  <product id="P1105" status="active">
+    <name>All-Season Backpack</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>135.99</list_price>
+      <unit_cost>73.58</unit_cost>
+    </pricing>
+    <launch_date>2025-06-23</launch_date>
+    <weight_kg>4.9</weight_kg>
+    <attributes>
+      <color>Black</color>
+    </attributes>
+  </product>
+  <product id="P1198" status="active">
+    <name>Merino Beanie</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>178.99</list_price>
+      <unit_cost>81.92</unit_cost>
+    </pricing>
+    <launch_date>2025-01-04</launch_date>
+    <weight_kg>4.84</weight_kg>
+    <attributes>
+      <color>Olive</color>
+      <size_range>XS-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1040" status="active">
+    <name>Hydrating Shampoo</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>54.99</list_price>
+      <unit_cost>$24.55</unit_cost>
+    </pricing>
+    <launch_date>2025-03-06</launch_date>
+    <weight_kg>4.49</weight_kg>
+    <attributes>
+      <color>Navy</color>
+    </attributes>
+  </product>
+  <product id="P1114" status="active">
+    <name>Merino T-Shirt</name>
+    <category>Apparel</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>142.99</list_price>
+      <unit_cost>66.64</unit_cost>
+    </pricing>
+    <launch_date>2024-07-06</launch_date>
+    <weight_kg>2.8</weight_kg>
+    <attributes>
+      <color>Black</color>
+      <size_range>XS-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1035" status="active">
+    <name>Smart Charger</name>
+    <category> Electronics </category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>232.99</list_price>
+      <unit_cost>141.37</unit_cost>
+    </pricing>
+    <launch_date>2024-04-21</launch_date>
+    <weight_kg>1.69</weight_kg>
+  </product>
+  <product id="P1037" status="active">
+    <name>Insulated Resistance Bands</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>197.99</list_price>
+      <unit_cost>111.81</unit_cost>
+    </pricing>
+    <launch_date>2023-12-20</launch_date>
+    <weight_kg>2.27</weight_kg>
+  </product>
+  <product id="P1136" status="active">
+    <name>Classic Socks 3-Pack</name>
+    <category>apparel</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>138.99</list_price>
+      <unit_cost />
+    </pricing>
+    <launch_date>2024-11-21</launch_date>
+    <weight_kg>1.11</weight_kg>
+    <attributes>
+      <color>White</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1021" status="active">
+    <name>Glass Skillet</name>
+    <category> Home </category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>55.99</list_price>
+      <unit_cost>21.41</unit_cost>
+    </pricing>
+    <launch_date>2025-12-10</launch_date>
+    <weight_kg>4.91</weight_kg>
+  </product>
+  <product id="P1042" status="active">
+    <name>Merino Rain Jacket</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>98.99</list_price>
+      <unit_cost>57.15</unit_cost>
+    </pricing>
+    <launch_date>2023-05-11</launch_date>
+    <weight_kg>1.34</weight_kg>
+    <attributes>
+      <color>Olive</color>
+      <size_range>S-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1196" status="discontinued">
+    <name>Cast Iron Skillet</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>121.99</list_price>
+      <unit_cost>65.46</unit_cost>
+    </pricing>
+    <launch_date>2025-07-19</launch_date>
+    <weight_kg>4.44</weight_kg>
+  </product>
+  <product id="P1077" status="active">
+    <name>Thermal Rain Jacket</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>105.99</list_price>
+      <unit_cost>60.21</unit_cost>
+    </pricing>
+    <launch_date>2023-08-05</launch_date>
+    <weight_kg>2.52</weight_kg>
+    <attributes>
+      <color>White</color>
+      <size_range>XS-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1089" status="active">
+    <name>Classic Running Shoes</name>
+    <category>Apparel</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>86.99</list_price>
+      <unit_cost>35.79</unit_cost>
+    </pricing>
+    <launch_date>2024-10-27</launch_date>
+    <weight_kg>0.46</weight_kg>
+    <attributes>
+      <color>Red</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1066" status="active">
+    <name>Grip Resistance Bands</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>105.99</list_price>
+      <unit_cost>$64.81</unit_cost>
+    </pricing>
+    <launch_date>2025-06-21</launch_date>
+    <weight_kg>3.38</weight_kg>
+  </product>
+  <product id="P1176" status="active">
+    <name>Lightweight Running Shoes</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>120.99</list_price>
+      <unit_cost>49.42</unit_cost>
+    </pricing>
+    <launch_date>2025-10-10</launch_date>
+    <weight_kg>0.19</weight_kg>
+    <attributes>
+      <color>Olive</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1069" status="active">
+    <name>Foldable Gym Bag</name>
+    <category>Sports</category>
+    <brand>Kinetix</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>83.99</list_price>
+      <unit_cost>47.39</unit_cost>
+    </pricing>
+    <launch_date>2026-02-20</launch_date>
+    <weight_kg>2.19</weight_kg>
+  </product>
+  <product id="P1182" status="active">
+    <name>Organic Sunscreen</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>38.99</list_price>
+      <unit_cost>18.81</unit_cost>
+    </pricing>
+    <launch_date>2025-04-22</launch_date>
+    <weight_kg>4.5</weight_kg>
+  </product>
+  <product id="P1170" status="active">
+    <name>Ceramic Throw Blanket</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>141.99</list_price>
+      <unit_cost>73.40</unit_cost>
+    </pricing>
+    <launch_date>2023-10-02</launch_date>
+    <weight_kg>0.35</weight_kg>
+  </product>
+  <product id="P1127" status="active">
+    <name>Organic Lip Balm</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>51.99</list_price>
+      <unit_cost>27.96</unit_cost>
+    </pricing>
+    <launch_date>2023-05-18</launch_date>
+    <weight_kg>5.34</weight_kg>
+    <attributes>
+      <color>Grey</color>
+    </attributes>
+  </product>
+  <product id="P1156" status="active">
+    <name>Foldable Foam Roller</name>
+    <category>Sports</category>
+    <brand>Kinetix</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>54.99</list_price>
+      <unit_cost>33.00</unit_cost>
+    </pricing>
+    <launch_date>2023-12-08</launch_date>
+    <weight_kg>5.07</weight_kg>
+  </product>
+  <product id="P1090" status="active">
+    <name>Foldable Resistance Bands</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>171.99</list_price>
+      <unit_cost>71.85</unit_cost>
+    </pricing>
+    <launch_date>2025-04-20</launch_date>
+    <weight_kg>5.17</weight_kg>
+    <attributes>
+      <color>Red</color>
+    </attributes>
+  </product>
+  <product id="P1157" status="active">
+    <name>Eco Dumbbells</name>
+    <category>Sports</category>
+    <brand>Kinetix</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>181.99</list_price>
+      <unit_cost>82.81</unit_cost>
+    </pricing>
+    <launch_date>2023-01-09</launch_date>
+    <weight_kg>2.36</weight_kg>
+    <attributes>
+      <color>White</color>
+    </attributes>
+  </product>
+  <product id="P1067" status="active">
+    <name>Adjustable Dumbbells</name>
+    <category>Sports</category>
+    <brand>Kinetix</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>164.99</list_price>
+      <unit_cost>73.51</unit_cost>
+    </pricing>
+    <launch_date>2023-11-20</launch_date>
+    <weight_kg>1.26</weight_kg>
+    <attributes>
+      <color>Grey</color>
+    </attributes>
+  </product>
+  <product id="P1031" status="active">
+    <name>Packable Tent</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>138.99</list_price>
+      <unit_cost>$64.23</unit_cost>
+    </pricing>
+    <launch_date>11/02/2025</launch_date>
+    <weight_kg>2.55</weight_kg>
+  </product>
+  <product id="P1164" status="active">
+    <name>Merino Hoodie</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>134.99</list_price>
+      <unit_cost>65.84</unit_cost>
+    </pricing>
+    <launch_date>2023-11-18</launch_date>
+    <weight_kg>1.04</weight_kg>
+    <attributes>
+      <color>Black</color>
+      <size_range>S-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1161" status="active">
+    <name>Noise-Cancelling Keyboard</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>79.99</list_price>
+      <unit_cost>32.53</unit_cost>
+    </pricing>
+    <launch_date>2024-03-01</launch_date>
+    <weight_kg>4.21</weight_kg>
+    <attributes>
+      <color>Black</color>
+    </attributes>
+  </product>
+  <product id="P1160" status="active">
+    <name>Noise-Cancelling Earbuds</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>236.99</list_price>
+      <unit_cost>144.32</unit_cost>
+    </pricing>
+    <launch_date>2023-10-24</launch_date>
+    <weight_kg>3.15</weight_kg>
+  </product>
+  <product id="P1138" status="active">
+    <name>Gentle Shampoo</name>
+    <category>Beauty</category>
+    <brand>Glowroot</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>17.99</list_price>
+      <unit_cost>7.25</unit_cost>
+    </pricing>
+    <launch_date>2023-05-06</launch_date>
+    <weight_kg>5.94</weight_kg>
+  </product>
+  <product id="P1155" status="active">
+    <name>Daily Lip Balm</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>7.99</list_price>
+      <unit_cost>4.84</unit_cost>
+    </pricing>
+    <launch_date>2023-01-23</launch_date>
+    <weight_kg>0.34</weight_kg>
+  </product>
+  <product id="P1002" status="active">
+    <name>Travel Lip Balm</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>17.99</list_price>
+      <unit_cost>11.06</unit_cost>
+    </pricing>
+    <launch_date>2024-12-31</launch_date>
+    <weight_kg>6.0</weight_kg>
+  </product>
+  <product id="P1000" status="active">
+    <name>Portable Speaker</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>222.99</list_price>
+      <unit_cost>125.21</unit_cost>
+    </pricing>
+    <launch_date>2026-01-26</launch_date>
+    <weight_kg>4.67</weight_kg>
+  </product>
+  <product id="P1045" status="active">
+    <name>Linen Cutting Board</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>33.99</list_price>
+      <unit_cost>14.86</unit_cost>
+    </pricing>
+    <launch_date>2025-10-07</launch_date>
+    <weight_kg>1.1</weight_kg>
+    <attributes>
+      <color>Red</color>
+    </attributes>
+  </product>
+  <product id="P1177" status="active">
+    <name>Noise-Cancelling Speaker</name>
+    <category>Electronics</category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>231.99</list_price>
+      <unit_cost>112.01</unit_cost>
+    </pricing>
+    <launch_date>2025-07-31</launch_date>
+    <weight_kg>2.35</weight_kg>
+    <attributes>
+      <color>Red</color>
+    </attributes>
+  </product>
+  <product id="P1019" status="active">
+    <name>Smart Headphones</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>199.99</list_price>
+      <unit_cost>78.66</unit_cost>
+    </pricing>
+    <launch_date>2024-01-16</launch_date>
+    <weight_kg>2.58</weight_kg>
+    <attributes>
+      <color>Navy</color>
+    </attributes>
+  </product>
+  <product id="P1008" status="active">
+    <name>Travel Sunscreen</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>29.99</list_price>
+      <unit_cost>10.57</unit_cost>
+    </pricing>
+    <launch_date>2023-11-03</launch_date>
+    <weight_kg>3.6</weight_kg>
+  </product>
+  <product id="P1125" status="active">
+    <name>Lightweight Beanie</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>60.99</list_price>
+      <unit_cost>24.66</unit_cost>
+    </pricing>
+    <launch_date>2025-03-23</launch_date>
+    <weight_kg>2.24</weight_kg>
+    <attributes>
+      <color>Grey</color>
+      <size_range>XS-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1154" status="active">
+    <name>Linen Pan Set</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>66.99</list_price>
+      <unit_cost>38.46</unit_cost>
+    </pricing>
+    <launch_date>2025-08-14</launch_date>
+    <weight_kg>3.7</weight_kg>
+  </product>
+  <product id="P1075" status="active">
+    <name>Noise-Cancelling Headphones</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>154.99</list_price>
+      <unit_cost>86.42</unit_cost>
+    </pricing>
+    <launch_date>2025-09-02</launch_date>
+    <weight_kg>2.92</weight_kg>
+    <attributes>
+      <color>Grey</color>
+    </attributes>
+  </product>
+  <product id="P1018" status="active">
+    <name>Hydrating Face Cream</name>
+    <category>Beauty</category>
+    <brand>Glowroot</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>41.99</list_price>
+      <unit_cost>24.54</unit_cost>
+    </pricing>
+    <launch_date>22/01/2024</launch_date>
+    <weight_kg>4.09</weight_kg>
+  </product>
+  <product id="P1170" status="active">
+    <name>Ceramic Throw Blanket</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>136.99</list_price>
+      <unit_cost>73.40</unit_cost>
+    </pricing>
+    <launch_date>2023-10-02</launch_date>
+    <weight_kg>0.35</weight_kg>
+    <attributes>
+      <color>Grey</color>
+    </attributes>
+  </product>
+  <product id="P1103" status="active">
+    <name>Pro Headphones</name>
+    <category> Electronics </category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>100.99</list_price>
+      <unit_cost>59.24</unit_cost>
+    </pricing>
+    <launch_date>2023-06-19</launch_date>
+    <weight_kg>3.73</weight_kg>
+    <attributes>
+      <color>Black</color>
+    </attributes>
+  </product>
+  <product id="P1062" status="active">
+    <name>Insulated Dumbbells</name>
+    <category>Sports</category>
+    <brand>Kinetix</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>154.99</list_price>
+      <unit_cost>71.57</unit_cost>
+    </pricing>
+    <launch_date>29/09/2025</launch_date>
+    <weight_kg>5.75</weight_kg>
+    <attributes>
+      <color>Navy</color>
+    </attributes>
+  </product>
+  <product id="P1151" status="discontinued">
+    <name>Adjustable Yoga Mat</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>49.99</list_price>
+      <unit_cost>$19.45</unit_cost>
+    </pricing>
+    <launch_date>2024-12-19</launch_date>
+    <weight_kg>0.7</weight_kg>
+    <attributes>
+      <color>Olive</color>
+    </attributes>
+  </product>
+  <product id="P1120" status="active">
+    <name>Trail Running Shoes</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>167.99</list_price>
+      <unit_cost>62.88</unit_cost>
+    </pricing>
+    <launch_date>2024-02-17</launch_date>
+    <weight_kg>5.63</weight_kg>
+    <attributes>
+      <color>Red</color>
+      <size_range>S-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1124" status="active">
+    <name>Daily Face Cream</name>
+    <category>Beauty</category>
+    <brand>Glowroot</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>20.99</list_price>
+      <unit_cost>8.62</unit_cost>
+    </pricing>
+    <launch_date>2024-03-01</launch_date>
+    <weight_kg>1.32</weight_kg>
+  </product>
+  <product id="P1051" status="active">
+    <name>Packable Headlamp</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>113.99</list_price>
+      <unit_cost>66.10</unit_cost>
+    </pricing>
+    <launch_date>16/09/2025</launch_date>
+    <weight_kg>0.27</weight_kg>
+  </product>
+  <product id="P1153" status="active">
+    <name>Waterproof Beanie</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>46.99</list_price>
+      <unit_cost>22.61</unit_cost>
+    </pricing>
+    <launch_date>05/04/2023</launch_date>
+    <weight_kg>0.12</weight_kg>
+    <attributes>
+      <color>Sand</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1038" status="active">
+    <name>Organic Face Cream</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>34.99</list_price>
+      <unit_cost>21.27</unit_cost>
+    </pricing>
+    <launch_date>2025-02-18</launch_date>
+    <weight_kg>5.83</weight_kg>
+    <attributes>
+      <color>Black</color>
+    </attributes>
+  </product>
+  <product id="P1139" status="active">
+    <name>Organic Body Wash</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>28.99</list_price>
+      <unit_cost>11.21</unit_cost>
+    </pricing>
+    <launch_date>2026-04-10</launch_date>
+    <weight_kg>3.59</weight_kg>
+    <attributes>
+      <color>Sand</color>
+    </attributes>
+  </product>
+  <product id="P1132" status="discontinued">
+    <name>Wireless Earbuds</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>222.99</list_price>
+      <unit_cost>115.75</unit_cost>
+    </pricing>
+    <launch_date>2023-09-26</launch_date>
+    <weight_kg>2.96</weight_kg>
+  </product>
+  <product id="P1189" status="active">
+    <name>Trail Leggings</name>
+    <category>Apparel</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>57.99</list_price>
+      <unit_cost>23.79</unit_cost>
+    </pricing>
+    <launch_date>2023-03-23</launch_date>
+    <weight_kg>2.52</weight_kg>
+    <attributes>
+      <color>Red</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1133" status="active">
+    <name>Compact Speaker</name>
+    <category>Electronics</category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>119.99</list_price>
+      <unit_cost>$66.36</unit_cost>
+    </pricing>
+    <launch_date>2023-11-16</launch_date>
+    <weight_kg>5.82</weight_kg>
+    <attributes>
+      <color>Navy</color>
+    </attributes>
+  </product>
+  <product id="P1043" status="active">
+    <name>Merino Fleece</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>93.99</list_price>
+      <unit_cost>42.57</unit_cost>
+    </pricing>
+    <launch_date>2024-09-09</launch_date>
+    <weight_kg>2.12</weight_kg>
+    <attributes>
+      <color>Grey</color>
+      <size_range>S-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1193" status="active">
+    <name>Trail Hoodie</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>46.99</list_price>
+      <unit_cost>17.06</unit_cost>
+    </pricing>
+    <launch_date>2023-12-15</launch_date>
+    <weight_kg>4.32</weight_kg>
+    <attributes>
+      <color>Black</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1036" status="active">
+    <name>Lightweight Fleece</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>89.99</list_price>
+      <unit_cost>53.29</unit_cost>
+    </pricing>
+    <launch_date>2026-04-04</launch_date>
+    <weight_kg>0.99</weight_kg>
+    <attributes>
+      <color>Navy</color>
+      <size_range>S-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1012" status="active">
+    <name>Ultralight Sleeping Bag</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>242.99</list_price>
+      <unit_cost>125.79</unit_cost>
+    </pricing>
+    <launch_date>2026-01-24</launch_date>
+    <weight_kg>4.03</weight_kg>
+  </product>
+  <product id="P1034" status="active">
+    <name>Packable Backpack</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>197.99</list_price>
+      <unit_cost>104.46</unit_cost>
+    </pricing>
+    <launch_date>2023-01-24</launch_date>
+    <weight_kg>1.49</weight_kg>
+  </product>
+  <product id="P1163" status="discontinued">
+    <name>Insulated Foam Roller</name>
+    <category>Sports</category>
+    <brand>Kinetix</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>82.99</list_price>
+      <unit_cost>40.96</unit_cost>
+    </pricing>
+    <launch_date>2026-03-24</launch_date>
+    <weight_kg>1.3</weight_kg>
+  </product>
+  <product id="P1070" status="active">
+    <name>Eco Foam Roller</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>133.99</list_price>
+      <unit_cost>74.21</unit_cost>
+    </pricing>
+    <launch_date>2023-06-11</launch_date>
+    <weight_kg>2.11</weight_kg>
+  </product>
+  <product id="P1122" status="active">
+    <name>Pro Smartwatch</name>
+    <category>electronics</category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>220.99</list_price>
+      <unit_cost>110.45</unit_cost>
+    </pricing>
+    <launch_date>2025-12-10</launch_date>
+    <weight_kg>2.45</weight_kg>
+    <attributes>
+      <color>Olive</color>
+    </attributes>
+  </product>
+  <product id="P1174" status="active">
+    <name>Portable Power Bank</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>246.99</list_price>
+      <unit_cost>135.31</unit_cost>
+    </pricing>
+    <launch_date>2025-01-26</launch_date>
+    <weight_kg>5.11</weight_kg>
+  </product>
+  <product id="P1159" status="active">
+    <name>Solar Sleeping Bag</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>240.99</list_price>
+      <unit_cost />
+    </pricing>
+    <launch_date>2025-11-09</launch_date>
+    <weight_kg>1.04</weight_kg>
+  </product>
+  <product id="P1009" status="active">
+    <name>Cast Iron Carafe</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>106.99</list_price>
+      <unit_cost>60.79</unit_cost>
+    </pricing>
+    <launch_date>2026-02-16</launch_date>
+    <weight_kg>0.25</weight_kg>
+  </product>
+  <product id="P1113" status="active">
+    <name>Travel Shampoo</name>
+    <category> Beauty </category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>56.99</list_price>
+      <unit_cost>22.25</unit_cost>
+    </pricing>
+    <launch_date>2026-01-03</launch_date>
+    <weight_kg>2.41</weight_kg>
+    <attributes>
+      <color>White</color>
+    </attributes>
+  </product>
+  <product id="P1194" status="active">
+    <name>Portable Earbuds</name>
+    <category>Electronics</category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>177.99</list_price>
+      <unit_cost>$69.16</unit_cost>
+    </pricing>
+    <launch_date>2025-06-22</launch_date>
+    <weight_kg>1.44</weight_kg>
+  </product>
+  <product id="P1050" status="active">
+    <name>Gentle Body Wash</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>17.99</list_price>
+      <unit_cost>6.59</unit_cost>
+    </pricing>
+    <launch_date>2025-03-29</launch_date>
+    <weight_kg>0.11</weight_kg>
+  </product>
+  <product id="P1098" status="active">
+    <name>Ceramic Mug</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>134.99</list_price>
+      <unit_cost>64.05</unit_cost>
+    </pricing>
+    <launch_date>2025-04-27</launch_date>
+    <weight_kg>0.68</weight_kg>
+  </product>
+  <product id="P1057" status="active">
+    <name>Thermal Running Shoes</name>
+    <category>Apparel</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>148.99</list_price>
+      <unit_cost>91.61</unit_cost>
+    </pricing>
+    <launch_date>2023-07-05</launch_date>
+    <weight_kg>5.85</weight_kg>
+    <attributes>
+      <color>Olive</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1091" status="active">
+    <name>Merino Running Shoes</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>46.99</list_price>
+      <unit_cost>25.49</unit_cost>
+    </pricing>
+    <launch_date>2025-04-06</launch_date>
+    <weight_kg>4.17</weight_kg>
+    <attributes>
+      <color>Red</color>
+      <size_range>XS-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1134" status="active">
+    <name>Smart Earbuds</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>88.99</list_price>
+      <unit_cost>$41.93</unit_cost>
+    </pricing>
+    <launch_date>2025-12-19</launch_date>
+    <weight_kg>0.62</weight_kg>
+  </product>
+  <product id="P1166" status="discontinued">
+    <name>Adjustable Foam Roller</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>98.99</list_price>
+      <unit_cost>43.05</unit_cost>
+    </pricing>
+    <launch_date>2023-05-25</launch_date>
+    <weight_kg>2.28</weight_kg>
+  </product>
+  <product id="P1076" status="discontinued">
+    <name>All-Season Headlamp</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>102.99</list_price>
+      <unit_cost>57.37</unit_cost>
+    </pricing>
+    <launch_date>2026-04-03</launch_date>
+    <weight_kg>3.63</weight_kg>
+  </product>
+  <product id="P1145" status="active">
+    <name>Solar Lantern</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>175.99</list_price>
+      <unit_cost>67.40</unit_cost>
+    </pricing>
+    <launch_date>2023-09-04</launch_date>
+    <weight_kg>3.24</weight_kg>
+  </product>
+  <product id="P1109" status="active">
+    <name>Portable Webcam</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>124.99</list_price>
+      <unit_cost>72.89</unit_cost>
+    </pricing>
+    <launch_date>2024-08-25</launch_date>
+    <weight_kg>3.29</weight_kg>
+  </product>
+  <product id="P1083" status="active">
+    <name>Pro Charger</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>245.99</list_price>
+      <unit_cost>140.74</unit_cost>
+    </pricing>
+    <launch_date>2025-08-29</launch_date>
+    <weight_kg>0.94</weight_kg>
+  </product>
+  <product id="P1049" status="active">
+    <name>Compact Smartwatch</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>173.99</list_price>
+      <unit_cost>92.80</unit_cost>
+    </pricing>
+    <launch_date>2025-10-10</launch_date>
+    <weight_kg>5.09</weight_kg>
+    <attributes>
+      <color>Olive</color>
+    </attributes>
+  </product>
+  <product id="P1022" status="active">
+    <name>Waterproof Running Shoes</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>172.99</list_price>
+      <unit_cost>79.60</unit_cost>
+    </pricing>
+    <launch_date>2024-01-09</launch_date>
+    <weight_kg>2.14</weight_kg>
+    <attributes>
+      <color>Sand</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1131" status="active">
+    <name>Smart Webcam</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>241.99</list_price>
+      <unit_cost>111.08</unit_cost>
+    </pricing>
+    <launch_date>2026-02-18</launch_date>
+    <weight_kg>4.44</weight_kg>
+    <attributes>
+      <color>Navy</color>
+    </attributes>
+  </product>
+  <product id="P1007" status="active">
+    <name>Pro Keyboard</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>173.99</list_price>
+      <unit_cost>87.19</unit_cost>
+    </pricing>
+    <launch_date>2024-09-22</launch_date>
+    <weight_kg>3.9</weight_kg>
+  </product>
+  <product id="P1017" status="active">
+    <name>Solar Headlamp</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>141.99</list_price>
+      <unit_cost>72.63</unit_cost>
+    </pricing>
+    <launch_date>2023-05-23</launch_date>
+    <weight_kg>0.25</weight_kg>
+  </product>
+  <product id="P1118" status="discontinued">
+    <name>Stainless Pan Set</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>60.99</list_price>
+      <unit_cost>36.79</unit_cost>
+    </pricing>
+    <launch_date>2025-08-28</launch_date>
+    <weight_kg>3.86</weight_kg>
+  </product>
+  <product id="P1006" status="active">
+    <name>Rugged Headlamp</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>249.99</list_price>
+      <unit_cost>119.22</unit_cost>
+    </pricing>
+    <launch_date>2025-09-14</launch_date>
+    <weight_kg>5.11</weight_kg>
+  </product>
+  <product id="P1130" status="active">
+    <name>Eco Gym Bag</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>160.99</list_price>
+      <unit_cost>89.68</unit_cost>
+    </pricing>
+    <launch_date>2023-09-21</launch_date>
+    <weight_kg>1.64</weight_kg>
+  </product>
+  <product id="P1115" status="active">
+    <name>Wireless Headphones</name>
+    <category>Electronics</category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>124.99</list_price>
+      <unit_cost>$56.94</unit_cost>
+    </pricing>
+    <launch_date>2023-06-02</launch_date>
+    <weight_kg>0.11</weight_kg>
+  </product>
+  <product id="P1016" status="active">
+    <name>Wireless Keyboard</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>92.99</list_price>
+      <unit_cost>40.73</unit_cost>
+    </pricing>
+    <launch_date>2023-09-06</launch_date>
+    <weight_kg>2.83</weight_kg>
+    <attributes>
+      <color>Navy</color>
+    </attributes>
+  </product>
+  <product id="P1187" status="active">
+    <name>Stainless Cutting Board</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>79.99</list_price>
+      <unit_cost>32.08</unit_cost>
+    </pricing>
+    <launch_date>2025-04-08</launch_date>
+    <weight_kg>4.82</weight_kg>
+  </product>
+  <product id="P1039" status="active">
+    <name>Hydrating Body Wash</name>
+    <category>Beauty</category>
+    <brand>Glowroot</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>11.99</list_price>
+      <unit_cost>5.28</unit_cost>
+    </pricing>
+    <launch_date>2024-06-19</launch_date>
+    <weight_kg>4.44</weight_kg>
+  </product>
+  <product id="P1056" status="active">
+    <name>Ceramic Pan Set</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>28.99</list_price>
+      <unit_cost>12.13</unit_cost>
+    </pricing>
+    <launch_date>2025-08-12</launch_date>
+    <weight_kg>1.68</weight_kg>
+  </product>
+  <product id="P1014" status="active">
+    <name>Gentle Lip Balm</name>
+    <category>Beauty</category>
+    <brand>Glowroot</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>10.99</list_price>
+      <unit_cost>6.17</unit_cost>
+    </pricing>
+    <launch_date>2026-04-15</launch_date>
+    <weight_kg>2.5</weight_kg>
+  </product>
+  <product id="P1101" status="active">
+    <name>Pro Yoga Mat</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>103.99</list_price>
+      <unit_cost>64.41</unit_cost>
+    </pricing>
+    <launch_date>2025-04-14</launch_date>
+    <weight_kg>3.86</weight_kg>
+  </product>
+  <product id="P1148" status="active">
+    <name>All-Season Sleeping Bag</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>272.99</list_price>
+      <unit_cost>111.87</unit_cost>
+    </pricing>
+    <launch_date>2025-10-01</launch_date>
+    <weight_kg>2.4</weight_kg>
+    <attributes>
+      <color>Sand</color>
+    </attributes>
+  </product>
+  <product id="P1086" status="discontinued">
+    <name>Insulated Water Bottle</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>134.99</list_price>
+      <unit_cost>58.43</unit_cost>
+    </pricing>
+    <launch_date>2025-12-24</launch_date>
+    <weight_kg>0.22</weight_kg>
+  </product>
+  <product id="P1092" status="active">
+    <name>Cast Iron Mug</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>42.99</list_price>
+      <unit_cost>22.53</unit_cost>
+    </pricing>
+    <launch_date>2025-03-19</launch_date>
+    <weight_kg>3.32</weight_kg>
+  </product>
+  <product id="P1041" status="active">
+    <name>Compact Keyboard</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>235.99</list_price>
+      <unit_cost>128.60</unit_cost>
+    </pricing>
+    <launch_date>2023-03-02</launch_date>
+    <weight_kg>3.26</weight_kg>
+  </product>
+  <product id="P1190" status="active">
+    <name>Stainless Mug</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>133.99</list_price>
+      <unit_cost>80.14</unit_cost>
+    </pricing>
+    <launch_date>2023-07-27</launch_date>
+    <weight_kg>4.19</weight_kg>
+  </product>
+  <product id="P1178" status="active">
+    <name>Compact Earbuds</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>87.99</list_price>
+      <unit_cost>32.58</unit_cost>
+    </pricing>
+    <launch_date>2025-06-01</launch_date>
+    <weight_kg>5.45</weight_kg>
+    <attributes>
+      <color>White</color>
+    </attributes>
+  </product>
+  <product id="P1144" status="discontinued">
+    <name>Insulated Jump Rope</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>55.99</list_price>
+      <unit_cost>31.45</unit_cost>
+    </pricing>
+    <launch_date>2025-01-17</launch_date>
+    <weight_kg>0.41</weight_kg>
+    <attributes>
+      <color>Red</color>
+    </attributes>
+  </product>
+  <product id="P1020" status="active">
+    <name>Adjustable Resistance Bands</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>72.99</list_price>
+      <unit_cost>30.74</unit_cost>
+    </pricing>
+    <launch_date>2025-10-16</launch_date>
+    <weight_kg>4.9</weight_kg>
+    <attributes>
+      <color>Olive</color>
+    </attributes>
+  </product>
+  <product id="P1087" status="active">
+    <name>Hydrating Sunscreen</name>
+    <category>Beauty</category>
+    <brand>Glowroot</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>37.99</list_price>
+      <unit_cost>20.99</unit_cost>
+    </pricing>
+    <launch_date>2023-11-22</launch_date>
+    <weight_kg>3.04</weight_kg>
+    <attributes>
+      <color>Black</color>
+    </attributes>
+  </product>
+  <product id="P1186" status="active">
+    <name>Waterproof Leggings</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>26.99</list_price>
+      <unit_cost>11.74</unit_cost>
+    </pricing>
+    <launch_date>2023-09-11</launch_date>
+    <weight_kg>1.69</weight_kg>
+    <attributes>
+      <color>Black</color>
+      <size_range>S-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1097" status="active">
+    <name>Rugged Backpack</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>28.99</list_price>
+      <unit_cost>11.06</unit_cost>
+    </pricing>
+    <launch_date>2025-03-25</launch_date>
+    <weight_kg>3.63</weight_kg>
+    <attributes>
+      <color>Grey</color>
+    </attributes>
+  </product>
+  <product id="P1152" status="active">
+    <name>Stainless Skillet</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>94.99</list_price>
+      <unit_cost>$53.96</unit_cost>
+    </pricing>
+    <launch_date>08/03/2024</launch_date>
+    <weight_kg>3.43</weight_kg>
+    <attributes>
+      <color>Olive</color>
+    </attributes>
+  </product>
+  <product id="P1102" status="active">
+    <name>Adjustable Water Bottle</name>
+    <category>Sports</category>
+    <brand>Kinetix</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>209.99</list_price>
+      <unit_cost>107.66</unit_cost>
+    </pricing>
+    <launch_date>2024-09-21</launch_date>
+    <weight_kg>4.82</weight_kg>
+  </product>
+  <product id="P1184" status="active">
+    <name>Classic T-Shirt</name>
+    <category>Apparel</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>19.99</list_price>
+      <unit_cost>7.07</unit_cost>
+    </pricing>
+    <launch_date>2026-03-06</launch_date>
+    <weight_kg>1.07</weight_kg>
+    <attributes>
+      <color>Olive</color>
+      <size_range>S-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1044" status="active">
+    <name>Adjustable Jump Rope</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>118.99</list_price>
+      <unit_cost>71.13</unit_cost>
+    </pricing>
+    <launch_date>2024-12-07</launch_date>
+    <weight_kg>4.69</weight_kg>
+  </product>
+  <product id="P1061" status="active">
+    <name>Gentle Face Cream</name>
+    <category>Beauty</category>
+    <brand>Glowroot</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>49.99</list_price>
+      <unit_cost>28.15</unit_cost>
+    </pricing>
+    <launch_date>2024-01-02</launch_date>
+    <weight_kg>5.78</weight_kg>
+  </product>
+  <product id="P1185" status="active">
+    <name>Wireless Webcam</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>151.99</list_price>
+      <unit_cost>90.93</unit_cost>
+    </pricing>
+    <launch_date>2024-03-13</launch_date>
+    <weight_kg>5.99</weight_kg>
+  </product>
+  <product id="P1053" status="active">
+    <name>Rugged Sleeping Bag</name>
+    <category>OUTDOOR</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>235.99</list_price>
+      <unit_cost>103.62</unit_cost>
+    </pricing>
+    <launch_date>2024-03-25</launch_date>
+    <weight_kg>1.28</weight_kg>
+    <attributes>
+      <color>White</color>
+    </attributes>
+  </product>
+  <product id="P1029" status="active">
+    <name>Portable Smartwatch</name>
+    <category>Electronics</category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>83.99</list_price>
+      <unit_cost>46.81</unit_cost>
+    </pricing>
+    <launch_date>2024-10-15</launch_date>
+    <weight_kg>0.17</weight_kg>
+  </product>
+  <product id="P1058" status="active">
+    <name>Packable Camp Chair</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>109.99</list_price>
+      <unit_cost>43.88</unit_cost>
+    </pricing>
+    <launch_date>2026-02-25</launch_date>
+    <weight_kg>1.09</weight_kg>
+  </product>
+  <product id="P1010" status="active">
+    <name>Noise-Cancelling Power Bank</name>
+    <category>Electronics</category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>121.99</list_price>
+      <unit_cost>70.44</unit_cost>
+    </pricing>
+    <launch_date>2025-09-08</launch_date>
+    <weight_kg>3.91</weight_kg>
+  </product>
+  <product id="P1094" status="active">
+    <name>Lightweight Hoodie</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>154.99</list_price>
+      <unit_cost>72.86</unit_cost>
+    </pricing>
+    <launch_date>2025-02-07</launch_date>
+    <weight_kg>4.1</weight_kg>
+    <attributes>
+      <color>Olive</color>
+      <size_range>S-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1082" status="active">
+    <name>Waterproof Socks 3-Pack</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>96.99</list_price>
+      <unit_cost>41.25</unit_cost>
+    </pricing>
+    <launch_date>2023-12-12</launch_date>
+    <weight_kg>0.16</weight_kg>
+    <attributes>
+      <color>Black</color>
+      <size_range>S-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1104" status="discontinued">
+    <name>Glass Carafe</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>42.99</list_price>
+      <unit_cost>21.17</unit_cost>
+    </pricing>
+    <launch_date>2024-06-02</launch_date>
+    <weight_kg>3.68</weight_kg>
+  </product>
+  <product id="P1197" status="discontinued">
+    <name>Foldable Dumbbells</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>92.99</list_price>
+      <unit_cost>41.35</unit_cost>
+    </pricing>
+    <launch_date>2023-09-02</launch_date>
+    <weight_kg>4.18</weight_kg>
+  </product>
+  <product id="P1199" status="active">
+    <name>Foldable Water Bottle</name>
+    <category> Sports </category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>204.99</list_price>
+      <unit_cost>123.69</unit_cost>
+    </pricing>
+    <launch_date>2024-05-07</launch_date>
+    <weight_kg>3.05</weight_kg>
+  </product>
+  <product id="P1146" status="active">
+    <name>Travel Body Wash</name>
+    <category>Beauty</category>
+    <brand>Glowroot</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>56.99</list_price>
+      <unit_cost>26.04</unit_cost>
+    </pricing>
+    <launch_date>2023-03-09</launch_date>
+    <weight_kg>0.84</weight_kg>
+  </product>
+  <product id="P1088" status="discontinued">
+    <name>Travel Face Cream</name>
+    <category>Beauty</category>
+    <brand>Glowroot</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>9.99</list_price>
+      <unit_cost>3.89</unit_cost>
+    </pricing>
+    <launch_date>2024-05-31</launch_date>
+    <weight_kg>3.67</weight_kg>
+    <attributes>
+      <color>White</color>
+    </attributes>
+  </product>
+  <product id="P1033" status="discontinued">
+    <name>Bamboo Skillet</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>142.99</list_price>
+      <unit_cost>82.46</unit_cost>
+    </pricing>
+    <launch_date>2026-02-06</launch_date>
+    <weight_kg>5.2</weight_kg>
+    <attributes>
+      <color>Olive</color>
+    </attributes>
+  </product>
+  <product id="P1073" status="active">
+    <name>Thermal T-Shirt</name>
+    <category>Apparel</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>15.99</list_price>
+      <unit_cost>8.85</unit_cost>
+    </pricing>
+    <launch_date>2025-12-02</launch_date>
+    <weight_kg>5.79</weight_kg>
+    <attributes>
+      <color>Olive</color>
+      <size_range>XS-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1128" status="active">
+    <name>Glass Mug</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>26.99</list_price>
+      <unit_cost>10.31</unit_cost>
+    </pricing>
+    <launch_date>2023-04-23</launch_date>
+    <weight_kg>0.82</weight_kg>
+  </product>
+  <product id="P1030" status="discontinued">
+    <name>Cast Iron French Press</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>106.99</list_price>
+      <unit_cost>57.91</unit_cost>
+    </pricing>
+    <launch_date>2023-08-31</launch_date>
+    <weight_kg>3.16</weight_kg>
+  </product>
+  <product id="P1005" status="active">
+    <name>All-Season Camp Chair</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>276.99</list_price>
+      <unit_cost>139.13</unit_cost>
+    </pricing>
+    <launch_date>2025-09-08</launch_date>
+    <weight_kg>4.84</weight_kg>
+  </product>
+  <product id="P1123" status="active">
+    <name>Pro Foam Roller</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>19.99</list_price>
+      <unit_cost>9.55</unit_cost>
+    </pricing>
+    <launch_date>2025-08-26</launch_date>
+    <weight_kg>4.3</weight_kg>
+    <attributes>
+      <color>White</color>
+    </attributes>
+  </product>
+  <product id="P1150" status="discontinued">
+    <name>Cast Iron Cutting Board</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>98.99</list_price>
+      <unit_cost>43.70</unit_cost>
+    </pricing>
+    <launch_date>2025-01-21</launch_date>
+    <weight_kg>5.2</weight_kg>
+    <attributes>
+      <color>Black</color>
+    </attributes>
+  </product>
+  <product id="P1106" status="active">
+    <name>Bamboo Carafe</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>25.99</list_price>
+      <unit_cost>9.11</unit_cost>
+    </pricing>
+    <launch_date>2024-02-10</launch_date>
+    <weight_kg>2.06</weight_kg>
+  </product>
+  <product id="P1026" status="active">
+    <name>Bamboo Mug</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>11.99</list_price>
+      <unit_cost>7.32</unit_cost>
+    </pricing>
+    <launch_date>2023-04-28</launch_date>
+    <weight_kg>0.19</weight_kg>
+    <attributes>
+      <color>Sand</color>
+    </attributes>
+  </product>
+  <product id="P1183" status="active">
+    <name>Noise-Cancelling Charger</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>76.99</list_price>
+      <unit_cost>28.35</unit_cost>
+    </pricing>
+    <launch_date>2025-07-16</launch_date>
+    <weight_kg>5.39</weight_kg>
+  </product>
+  <product id="P1167" status="active">
+    <name>Glass French Press</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>125.99</list_price>
+      <unit_cost>76.72</unit_cost>
+    </pricing>
+    <launch_date>2025-12-27</launch_date>
+    <weight_kg>4.45</weight_kg>
+    <attributes>
+      <color>Red</color>
+    </attributes>
+  </product>
+  <product id="P1095" status="active">
+    <name>Trail T-Shirt</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>146.99</list_price>
+      <unit_cost>84.45</unit_cost>
+    </pricing>
+    <launch_date>2024-12-19</launch_date>
+    <weight_kg>3.18</weight_kg>
+    <attributes>
+      <color>Red</color>
+      <size_range>S-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1028" status="discontinued">
+    <name>Grip Yoga Mat</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>153.99</list_price>
+      <unit_cost>70.07</unit_cost>
+    </pricing>
+    <launch_date>2024-12-30</launch_date>
+    <weight_kg>4.31</weight_kg>
+  </product>
+  <product id="P1141" status="active">
+    <name>Lightweight Rain Jacket</name>
+    <category>Apparel</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>78.99</list_price>
+      <unit_cost>48.71</unit_cost>
+    </pricing>
+    <launch_date>2024-10-10</launch_date>
+    <weight_kg>1.22</weight_kg>
+    <attributes>
+      <color>Red</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1001" status="active">
+    <name>Eco Resistance Bands</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>58.99</list_price>
+      <unit_cost>22.41</unit_cost>
+    </pricing>
+    <launch_date>2023-07-20</launch_date>
+    <weight_kg>4.9</weight_kg>
+    <attributes>
+      <color>Grey</color>
+    </attributes>
+  </product>
+  <product id="P1079" status="active">
+    <name>Portable Keyboard</name>
+    <category> Electronics </category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>212.99</list_price>
+      <unit_cost>129.58</unit_cost>
+    </pricing>
+    <launch_date>2024-01-25</launch_date>
+    <weight_kg>5.83</weight_kg>
+  </product>
+  <product id="P1081" status="active">
+    <name>Cast Iron Candle</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>74.99</list_price>
+      <unit_cost>26.55</unit_cost>
+    </pricing>
+    <launch_date>2025-03-01</launch_date>
+    <weight_kg>2.67</weight_kg>
+    <attributes>
+      <color>Grey</color>
+    </attributes>
+  </product>
+  <product id="P1013" status="active">
+    <name>Daily Shampoo</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>6.99</list_price>
+      <unit_cost>$3.48</unit_cost>
+    </pricing>
+    <launch_date>2025-08-26</launch_date>
+    <weight_kg>5.75</weight_kg>
+    <attributes>
+      <color>Sand</color>
+    </attributes>
+  </product>
+  <product id="P1047" status="active">
+    <name>Rugged Camp Chair</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>94.99</list_price>
+      <unit_cost>40.08</unit_cost>
+    </pricing>
+    <launch_date>2025-06-29</launch_date>
+    <weight_kg>3.29</weight_kg>
+  </product>
+  <product id="P1137" status="active">
+    <name>Rugged Tent</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>42.99</list_price>
+      <unit_cost>20.16</unit_cost>
+    </pricing>
+    <launch_date>2025-11-12</launch_date>
+    <weight_kg>4.7</weight_kg>
+  </product>
+  <product id="P1169" status="active">
+    <name>Linen French Press</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>87.99</list_price>
+      <unit_cost>42.95</unit_cost>
+    </pricing>
+    <launch_date>2023-05-27</launch_date>
+    <weight_kg>4.98</weight_kg>
+    <attributes>
+      <color>Sand</color>
+    </attributes>
+  </product>
+  <product id="P1173" status="active">
+    <name>Noise-Cancelling Smartwatch</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>225.99</list_price>
+      <unit_cost>95.49</unit_cost>
+    </pricing>
+    <launch_date>2024-09-13</launch_date>
+    <weight_kg>4.33</weight_kg>
+    <attributes>
+      <color>Olive</color>
+    </attributes>
+  </product>
+  <product id="P1054" status="active">
+    <name>Hydrating Lip Balm</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>10.99</list_price>
+      <unit_cost>4.17</unit_cost>
+    </pricing>
+    <launch_date>2024-07-08</launch_date>
+    <weight_kg>0.31</weight_kg>
+  </product>
+  <product id="P1060" status="active">
+    <name>Lightweight Leggings</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>34.99</list_price>
+      <unit_cost>15.68</unit_cost>
+    </pricing>
+    <launch_date>2025-03-13</launch_date>
+    <weight_kg>4.37</weight_kg>
+    <attributes>
+      <color>Sand</color>
+      <size_range>S-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1129" status="active">
+    <name>Stainless Throw Blanket</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>142.99</list_price>
+      <unit_cost>50.57</unit_cost>
+    </pricing>
+    <launch_date>2024-08-03</launch_date>
+    <weight_kg>3.42</weight_kg>
+  </product>
+  <product id="P1030" status="discontinued">
+    <name>Cast Iron French Press</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>111.99</list_price>
+      <unit_cost>57.91</unit_cost>
+    </pricing>
+    <launch_date>2023-08-31</launch_date>
+    <weight_kg>3.16</weight_kg>
+  </product>
+  <product id="P1023" status="active">
+    <name>Lightweight Socks 3-Pack</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>30.99</list_price>
+      <unit_cost>15.50</unit_cost>
+    </pricing>
+    <launch_date>09/03/2026</launch_date>
+    <weight_kg>3.44</weight_kg>
+    <attributes>
+      <color>Grey</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1143" status="active">
+    <name>Thermal Hoodie</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>108.99</list_price>
+      <unit_cost>38.58</unit_cost>
+    </pricing>
+    <launch_date>2023-10-02</launch_date>
+    <weight_kg>1.9</weight_kg>
+    <attributes>
+      <color>White</color>
+      <size_range>XS-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1024" status="active">
+    <name>Packable Lantern</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>175.99</list_price>
+      <unit_cost>66.18</unit_cost>
+    </pricing>
+    <launch_date>2025-06-12</launch_date>
+    <weight_kg>4.12</weight_kg>
+    <attributes>
+      <color>Navy</color>
+    </attributes>
+  </product>
+  <product id="P1100" status="active">
+    <name>Compact Webcam</name>
+    <category>Electronics</category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>192.99</list_price>
+      <unit_cost>68.62</unit_cost>
+    </pricing>
+    <launch_date>2025-08-07</launch_date>
+    <weight_kg>5.95</weight_kg>
+    <attributes>
+      <color>Sand</color>
+    </attributes>
+  </product>
+  <product id="P1065" status="active">
+    <name>Noise-Cancelling Webcam</name>
+    <category>Electronics</category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>61.99</list_price>
+      <unit_cost>25.46</unit_cost>
+    </pricing>
+    <launch_date>2025-10-09</launch_date>
+    <weight_kg>0.99</weight_kg>
+    <attributes>
+      <color>Black</color>
+    </attributes>
+  </product>
+  <product id="P1078" status="active">
+    <name>Portable Charger</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>138.99</list_price>
+      <unit_cost>58.23</unit_cost>
+    </pricing>
+    <launch_date>2023-03-16</launch_date>
+    <weight_kg>5.06</weight_kg>
+  </product>
+  <product id="P1003" status="active">
+    <name>Ultralight Lantern</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>115.99</list_price>
+      <unit_cost>54.92</unit_cost>
+    </pricing>
+    <launch_date>2026-03-28</launch_date>
+    <weight_kg>5.09</weight_kg>
+  </product>
+  <product id="P1165" status="active">
+    <name>Smart Power Bank</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>189.99</list_price>
+      <unit_cost>85.55</unit_cost>
+    </pricing>
+    <launch_date>2023-02-26</launch_date>
+    <weight_kg>4.04</weight_kg>
+  </product>
+  <product id="P1191" status="active">
+    <name>Classic Rain Jacket</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>20.99</list_price>
+      <unit_cost>8.18</unit_cost>
+    </pricing>
+    <launch_date>2025-03-25</launch_date>
+    <weight_kg>3.5</weight_kg>
+    <attributes>
+      <color>Grey</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1108" status="active">
+    <name>Packable Sleeping Bag</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>125.99</list_price>
+      <unit_cost>57.24</unit_cost>
+    </pricing>
+    <launch_date>19/12/2024</launch_date>
+    <weight_kg>4.7</weight_kg>
+  </product>
+  <product id="P1059" status="active">
+    <name>Stainless Candle</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>98.99</list_price>
+      <unit_cost>35.42</unit_cost>
+    </pricing>
+    <launch_date>2024-05-08</launch_date>
+    <weight_kg>3.07</weight_kg>
+    <attributes>
+      <color>Grey</color>
+    </attributes>
+  </product>
+  <product id="P1171" status="active">
+    <name>Lightweight T-Shirt</name>
+    <category>apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>108.99</list_price>
+      <unit_cost>$63.27</unit_cost>
+    </pricing>
+    <launch_date>2023-12-03</launch_date>
+    <weight_kg>5.06</weight_kg>
+    <attributes>
+      <color>Navy</color>
+      <size_range>S-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1175" status="active">
+    <name>Grip Gym Bag</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>172.99</list_price>
+      <unit_cost>85.45</unit_cost>
+    </pricing>
+    <launch_date>2024-10-23</launch_date>
+    <weight_kg>2.64</weight_kg>
+    <attributes>
+      <color>Sand</color>
+    </attributes>
+  </product>
+  <product id="P1168" status="active">
+    <name>Daily Body Wash</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>23.99</list_price>
+      <unit_cost>$14.69</unit_cost>
+    </pricing>
+    <launch_date>2023-08-17</launch_date>
+    <weight_kg>1.47</weight_kg>
+    <attributes>
+      <color>Olive</color>
+    </attributes>
+  </product>
+  <product id="P1162" status="active">
+    <name>Pro Jump Rope</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>41.99</list_price>
+      <unit_cost>22.62</unit_cost>
+    </pricing>
+    <launch_date>2024-03-18</launch_date>
+    <weight_kg>4.57</weight_kg>
+    <attributes>
+      <color>White</color>
+    </attributes>
+  </product>
+  <product id="P1055" status="active">
+    <name>Grip Foam Roller</name>
+    <category>SPORTS</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>80.99</list_price>
+      <unit_cost>41.61</unit_cost>
+    </pricing>
+    <launch_date>2024-06-06</launch_date>
+    <weight_kg>2.0</weight_kg>
+    <attributes>
+      <color>Grey</color>
+    </attributes>
+  </product>
+  <product id="P1192" status="active">
+    <name>Ceramic Cutting Board</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>17.99</list_price>
+      <unit_cost>8.50</unit_cost>
+    </pricing>
+    <launch_date>2024-10-01</launch_date>
+    <weight_kg>1.99</weight_kg>
+  </product>
+  <product id="P1121" status="active">
+    <name>All-Season Lantern</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>113.99</list_price>
+      <unit_cost>50.91</unit_cost>
+    </pricing>
+    <launch_date>2026-03-25</launch_date>
+    <weight_kg>5.62</weight_kg>
+  </product>
+  <product id="P1126" status="active">
+    <name>Bamboo Cutting Board</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>112.99</list_price>
+      <unit_cost>56.32</unit_cost>
+    </pricing>
+    <launch_date>2024-02-03</launch_date>
+    <weight_kg>1.16</weight_kg>
+  </product>
+  <product id="P1072" status="discontinued">
+    <name>Gentle Sunscreen</name>
+    <category>Beauty</category>
+    <brand>Glowroot</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>39.99</list_price>
+      <unit_cost>23.69</unit_cost>
+    </pricing>
+    <launch_date>2023-10-03</launch_date>
+    <weight_kg>2.38</weight_kg>
+  </product>
+  <product id="P1084" status="active">
+    <name>Cast Iron Pan Set</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>87.99</list_price>
+      <unit_cost>50.14</unit_cost>
+    </pricing>
+    <launch_date>2023-07-03</launch_date>
+    <weight_kg>3.01</weight_kg>
+  </product>
+  <product id="P1025" status="active">
+    <name>Linen Skillet</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>100.99</list_price>
+      <unit_cost>42.89</unit_cost>
+    </pricing>
+    <launch_date>2023-05-11</launch_date>
+    <weight_kg>1.92</weight_kg>
+  </product>
+  <product id="P1071" status="discontinued">
+    <name>Solar Tent</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>247.99</list_price>
+      <unit_cost>92.19</unit_cost>
+    </pricing>
+    <launch_date>2023-03-27</launch_date>
+    <weight_kg>5.54</weight_kg>
+  </product>
+  <product id="P1117" status="active">
+    <name>Classic Fleece</name>
+    <category>Apparel</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>144.99</list_price>
+      <unit_cost>56.61</unit_cost>
+    </pricing>
+    <launch_date>2026-02-05</launch_date>
+    <weight_kg>0.76</weight_kg>
+    <attributes>
+      <color>Olive</color>
+      <size_range>XS-L</size_range>
+    </attributes>
+  </product>
+  <product id="P1068" status="active">
+    <name>Compact Charger</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>167.99</list_price>
+      <unit_cost>71.82</unit_cost>
+    </pricing>
+    <launch_date>17/01/2025</launch_date>
+    <weight_kg>2.89</weight_kg>
+  </product>
+  <product id="P1085" status="active">
+    <name>Grip Jump Rope</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>79.99</list_price>
+      <unit_cost>44.03</unit_cost>
+    </pricing>
+    <launch_date>2023-02-13</launch_date>
+    <weight_kg>1.47</weight_kg>
+    <attributes>
+      <color>Navy</color>
+    </attributes>
+  </product>
+  <product id="P1112" status="active">
+    <name>Smart Keyboard</name>
+    <category>Electronics</category>
+    <brand>Auralis</brand>
+    <supplier id="SUP-101" country="CN">Shenzhen Audio Works</supplier>
+    <pricing currency="USD">
+      <list_price>242.99</list_price>
+      <unit_cost>134.67</unit_cost>
+    </pricing>
+    <launch_date>10/08/2024</launch_date>
+    <weight_kg>2.26</weight_kg>
+    <attributes>
+      <color>Red</color>
+    </attributes>
+  </product>
+  <product id="P1063" status="active">
+    <name>Ultralight Camp Chair</name>
+    <category>Outdoor</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>210.99</list_price>
+      <unit_cost>125.12</unit_cost>
+    </pricing>
+    <launch_date>2023-10-26</launch_date>
+    <weight_kg>0.29</weight_kg>
+    <attributes>
+      <color>Sand</color>
+    </attributes>
+  </product>
+  <product id="P1140" status="discontinued">
+    <name>Pro Webcam</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>125.99</list_price>
+      <unit_cost>52.93</unit_cost>
+    </pricing>
+    <launch_date>2024-10-05</launch_date>
+    <weight_kg>2.4</weight_kg>
+  </product>
+  <product id="P1172" status="active">
+    <name>Solar Backpack</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>89.99</list_price>
+      <unit_cost>35.84</unit_cost>
+    </pricing>
+    <launch_date>2025-09-21</launch_date>
+    <weight_kg>1.33</weight_kg>
+  </product>
+  <product id="P1111" status="active">
+    <name>Pro Earbuds</name>
+    <category>Electronics</category>
+    <brand>Voltline</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>82.99</list_price>
+      <unit_cost>34.19</unit_cost>
+    </pricing>
+    <launch_date>2023-05-17</launch_date>
+    <weight_kg>4.78</weight_kg>
+    <attributes>
+      <color>White</color>
+    </attributes>
+  </product>
+  <product id="P1046" status="active">
+    <name>Insulated Gym Bag</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>154.99</list_price>
+      <unit_cost>71.39</unit_cost>
+    </pricing>
+    <launch_date>2025-02-20</launch_date>
+    <weight_kg>2.68</weight_kg>
+  </product>
+  <product id="P1011" status="active">
+    <name>Foldable Yoga Mat</name>
+    <category>Sports</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>49.99</list_price>
+      <unit_cost>23.56</unit_cost>
+    </pricing>
+    <launch_date>2023-01-29</launch_date>
+    <weight_kg>2.73</weight_kg>
+  </product>
+  <product id="P1096" status="active">
+    <name>Eco Water Bottle</name>
+    <category>Sports</category>
+    <brand>Kinetix</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>189.99</list_price>
+      <unit_cost>84.77</unit_cost>
+    </pricing>
+    <launch_date>2023-03-01</launch_date>
+    <weight_kg>1.33</weight_kg>
+  </product>
+  <product id="P1179" status="active">
+    <name>Insulated Yoga Mat</name>
+    <category>Sports</category>
+    <brand>Kinetix</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>214.99</list_price>
+      <unit_cost>130.46</unit_cost>
+    </pricing>
+    <launch_date>2025-04-05</launch_date>
+    <weight_kg>0.71</weight_kg>
+  </product>
+  <product id="P1107" status="active">
+    <name>Linen Mug</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>102.99</list_price>
+      <unit_cost>53.07</unit_cost>
+    </pricing>
+    <launch_date>2025-02-09</launch_date>
+    <weight_kg>5.86</weight_kg>
+    <attributes>
+      <color>Navy</color>
+    </attributes>
+  </product>
+  <product id="P1147" status="discontinued">
+    <name>Organic Shampoo</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>11.99</list_price>
+      <unit_cost>4.39</unit_cost>
+    </pricing>
+    <launch_date>2023-03-27</launch_date>
+    <weight_kg>0.81</weight_kg>
+  </product>
+  <product id="P1197" status="discontinued">
+    <name>Foldable Dumbbells</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>97.99</list_price>
+      <unit_cost>41.35</unit_cost>
+    </pricing>
+    <launch_date>2023-09-02</launch_date>
+    <weight_kg>4.18</weight_kg>
+  </product>
+  <product id="P1080" status="active">
+    <name>Stainless French Press</name>
+    <category> Home </category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>75.99</list_price>
+      <unit_cost>44.77</unit_cost>
+    </pricing>
+    <launch_date>2026-01-24</launch_date>
+    <weight_kg>3.83</weight_kg>
+  </product>
+  <product id="P1099" status="active">
+    <name>Thermal Leggings</name>
+    <category>Apparel</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-201" country="DE">Northline Apparel GmbH</supplier>
+    <pricing currency="USD">
+      <list_price>69.99</list_price>
+      <unit_cost>26.13</unit_cost>
+    </pricing>
+    <launch_date>2024-04-29</launch_date>
+    <weight_kg>2.82</weight_kg>
+    <attributes>
+      <color>Navy</color>
+      <size_range>S-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1195" status="active">
+    <name>Bamboo Throw Blanket</name>
+    <category>Home</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-302" country="PT">Porto Ceramics SA</supplier>
+    <pricing currency="USD">
+      <list_price>21.99</list_price>
+      <unit_cost>13.04</unit_cost>
+    </pricing>
+    <launch_date>2025-01-08</launch_date>
+    <weight_kg>1.18</weight_kg>
+    <attributes>
+      <color>Navy</color>
+    </attributes>
+  </product>
+  <product id="P1032" status="active">
+    <name>Waterproof Hoodie</name>
+    <category>Apparel</category>
+    <brand>Strata</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>103.99</list_price>
+      <unit_cost>61.36</unit_cost>
+    </pricing>
+    <launch_date>2023-10-30</launch_date>
+    <weight_kg>0.15</weight_kg>
+    <attributes>
+      <color>Navy</color>
+      <size_range>XS-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1074" status="active">
+    <name>Glass Cutting Board</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>55.99</list_price>
+      <unit_cost>25.64</unit_cost>
+    </pricing>
+    <launch_date>2025-11-18</launch_date>
+    <weight_kg>1.91</weight_kg>
+  </product>
+  <product id="P1048" status="active">
+    <name>Cast Iron Throw Blanket</name>
+    <category>HOME</category>
+    <brand>Kiln &amp; Co</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>146.99</list_price>
+      <unit_cost>62.08</unit_cost>
+    </pricing>
+    <launch_date>2026-03-22</launch_date>
+    <weight_kg>2.44</weight_kg>
+  </product>
+  <product id="P1015" status="active">
+    <name>Thermal Socks 3-Pack</name>
+    <category>Apparel</category>
+    <brand>Northpeak</brand>
+    <supplier id="SUP-202" country="BD">Dhaka Textile Group</supplier>
+    <pricing currency="USD">
+      <list_price>75.99</list_price>
+      <unit_cost>44.81</unit_cost>
+    </pricing>
+    <launch_date>2023-04-16</launch_date>
+    <weight_kg>3.9</weight_kg>
+    <attributes>
+      <color>Sand</color>
+      <size_range>S-XL</size_range>
+    </attributes>
+  </product>
+  <product id="P1180" status="active">
+    <name>Glass Pan Set</name>
+    <category>Home</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>84.99</list_price>
+      <unit_cost>51.81</unit_cost>
+    </pricing>
+    <launch_date>2024-07-26</launch_date>
+    <weight_kg>2.43</weight_kg>
+  </product>
+  <product id="P1110" status="discontinued">
+    <name>Linen Carafe</name>
+    <category>Home</category>
+    <brand>Hearthline</brand>
+    <supplier id="SUP-301" country="GB">Hearth &amp; Home Co.</supplier>
+    <pricing currency="USD">
+      <list_price>10.99</list_price>
+      <unit_cost>4.08</unit_cost>
+    </pricing>
+    <launch_date>2023-12-28</launch_date>
+    <weight_kg>2.23</weight_kg>
+  </product>
+  <product id="P1181" status="active">
+    <name>Smart Smartwatch</name>
+    <category>Electronics</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-102" country="TW">Taipei Circuit Ltd</supplier>
+    <pricing currency="USD">
+      <list_price>224.99</list_price>
+      <unit_cost>111.22</unit_cost>
+    </pricing>
+    <launch_date>2025-09-22</launch_date>
+    <weight_kg>3.1</weight_kg>
+  </product>
+  <product id="P1116" status="active">
+    <name>Ultralight Backpack</name>
+    <category>Outdoor</category>
+    <brand>Terra Trail</brand>
+    <supplier id="SUP-501" country="US">Summit Gear Mfg</supplier>
+    <pricing currency="USD">
+      <list_price>174.99</list_price>
+      <unit_cost>73.35</unit_cost>
+    </pricing>
+    <launch_date>2024-09-13</launch_date>
+    <weight_kg>0.71</weight_kg>
+  </product>
+  <product id="P1188" status="active">
+    <name>Daily Sunscreen</name>
+    <category>Beauty</category>
+    <brand>Meridian Basics</brand>
+    <supplier id="SUP-601" country="FR">Botanica Labs</supplier>
+    <pricing currency="USD">
+      <list_price>10.99</list_price>
+      <unit_cost>4.26</unit_cost>
+    </pricing>
+    <launch_date>2023-07-06</launch_date>
+    <weight_kg>4.55</weight_kg>
+  </product>
+  <product id="P1119" status="active">
+    <name>Pro Gym Bag</name>
+    <category>Sports</category>
+    <brand>Corepace</brand>
+    <supplier id="SUP-401" country="CA">PeakFit Sports Inc.</supplier>
+    <pricing currency="USD">
+      <list_price>209.99</list_price>
+      <unit_cost>85.28</unit_cost>
+    </pricing>
+    <launch_date>2023-09-11</launch_date>
+    <weight_kg>4.08</weight_kg>
+  </product>
+</catalog>
