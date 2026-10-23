@@ -98,9 +98,6 @@ meridian-multiformat-etl/
 | Top country | **US** ($234K profit), then Germany and the UK, nearly tied |
 | Top category | **Electronics** ($196K profit, about 29% of total) |
 
-## How to run
-See **[REPRODUCE_AND_COMMANDS.md](REPRODUCE_AND_COMMANDS.md)**. In short: upload `data/raw/` to a Databricks Volume, import the notebooks, set `VOLUME_DIR`, and run `01 → 04`, or let the scheduled Job run them.
-
 ## What I learned
 - Routing files to format-specific extractors with `glob` patterns
 - Flattening nested JSON and parsing XML into DataFrames
